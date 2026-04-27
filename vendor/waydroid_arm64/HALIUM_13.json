@@ -1,0 +1,94 @@
+{
+    "response": [
+        {
+            "datetime": 1775187157,
+            "filename": "lineage-20.0-20260403-HALIUM_13-waydroid_arm64-vendor.zip",
+            "id": "fc7311d2358aa6fd846d60cfa4b1b2ef8237f805c4a172fd83502cdf6d65dca5",
+            "romtype": "HALIUM_13",
+            "size": 41523744,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-fc7311d2358aa6fd846d60cfa4b1b2ef8237f805c4a172fd83502cdf6d65dca5/lineage-20.0-20260403-HALIUM_13-waydroid_arm64-vendor.zip",
+            "version": "20.0"
+        },
+        {
+            "datetime": 1773316973,
+            "filename": "lineage-20.0-20260312-HALIUM_13-waydroid_arm64-vendor.zip",
+            "id": "c65cf7a812e81d1fdf3911162cf3364ac9113936c34dc2281a2498e60c39bd05",
+            "romtype": "HALIUM_13",
+            "size": 41523829,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-c65cf7a812e81d1fdf3911162cf3364ac9113936c34dc2281a2498e60c39bd05/lineage-20.0-20260312-HALIUM_13-waydroid_arm64-vendor.zip",
+            "version": "20.0"
+        },
+        {
+            "datetime": 1772394365,
+            "filename": "lineage-20.0-20260301-HALIUM_13-waydroid_arm64-vendor.zip",
+            "id": "428c4723c8299c76a8fd82541a2fba3e77d03066d5953ead1fd20bc8c97575f6",
+            "romtype": "HALIUM_13",
+            "size": 41523228,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-428c4723c8299c76a8fd82541a2fba3e77d03066d5953ead1fd20bc8c97575f6/lineage-20.0-20260301-HALIUM_13-waydroid_arm64-vendor.zip",
+            "version": "20.0"
+        },
+        {
+            "datetime": 1754729078,
+            "filename": "lineage-20.0-20250809-HALIUM_13-waydroid_arm64-vendor.zip",
+            "id": "9f642222aa054e7950182a228cd75ba72d8dad3ccb6c4dd130a476cab1dd3fe1",
+            "romtype": "HALIUM_13",
+            "size": 41522660,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-9f642222aa054e7950182a228cd75ba72d8dad3ccb6c4dd130a476cab1dd3fe1/lineage-20.0-20250809-HALIUM_13-waydroid_arm64-vendor.zip",
+            "version": "20.0"
+        },
+        {
+            "datetime": 1754124278,
+            "filename": "lineage-20.0-20250802-HALIUM_13-waydroid_arm64-vendor.zip",
+            "id": "7e880f868cc83573d6a7b97ae2af2483dc54c88527297b0d6032e22008ab6988",
+            "romtype": "HALIUM_13",
+            "size": 41522525,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-7e880f868cc83573d6a7b97ae2af2483dc54c88527297b0d6032e22008ab6988/lineage-20.0-20250802-HALIUM_13-waydroid_arm64-vendor.zip",
+            "version": "20.0"
+        },
+        {
+            "datetime": 1753519540,
+            "filename": "lineage-20.0-20250726-HALIUM_13-waydroid_arm64-vendor.zip",
+            "id": "6f0300191624bf7dda44b6e4efed7c8ec8245ace52d17a5ddd9a3aca90b48c1a",
+            "romtype": "HALIUM_13",
+            "size": 41522611,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-6f0300191624bf7dda44b6e4efed7c8ec8245ace52d17a5ddd9a3aca90b48c1a/lineage-20.0-20250726-HALIUM_13-waydroid_arm64-vendor.zip",
+            "version": "20.0"
+        },
+        {
+            "datetime": 1752914611,
+            "filename": "lineage-20.0-20250719-HALIUM_13-waydroid_arm64-vendor.zip",
+            "id": "9faeeafc09fa25588cebb3adc05e501f6e799ed7f851858183d4717ba8734778",
+            "romtype": "HALIUM_13",
+            "size": 41522334,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-9faeeafc09fa25588cebb3adc05e501f6e799ed7f851858183d4717ba8734778/lineage-20.0-20250719-HALIUM_13-waydroid_arm64-vendor.zip",
+            "version": "20.0"
+        },
+        {
+            "datetime": 1752309715,
+            "filename": "lineage-20.0-20250712-HALIUM_13-waydroid_arm64-vendor.zip",
+            "id": "0c5517e738f9989c1c5d94d7110b023726d4850e1aef51954a15908c2d56a6bc",
+            "romtype": "HALIUM_13",
+            "size": 41503012,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-0c5517e738f9989c1c5d94d7110b023726d4850e1aef51954a15908c2d56a6bc/lineage-20.0-20250712-HALIUM_13-waydroid_arm64-vendor.zip",
+            "version": "20.0"
+        },
+        {
+            "datetime": 1751925650,
+            "filename": "lineage-20.0-20250708-HALIUM_13-waydroid_arm64-vendor.zip",
+            "id": "8603552fb1d0f4f157663957fa964f16abbec17dc109837255f2f6bf5b362046",
+            "romtype": "HALIUM_13",
+            "size": 41503026,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-8603552fb1d0f4f157663957fa964f16abbec17dc109837255f2f6bf5b362046/lineage-20.0-20250708-HALIUM_13-waydroid_arm64-vendor.zip",
+            "version": "20.0"
+        },
+        {
+            "datetime": 1751705056,
+            "filename": "lineage-20.0-20250705-HALIUM_13-waydroid_arm64-vendor.zip",
+            "id": "23edb85d5c60884fc82c3eca6212f41cd935e893854a8a879e51931fd1eb77a0",
+            "romtype": "HALIUM_13",
+            "size": 41502617,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-23edb85d5c60884fc82c3eca6212f41cd935e893854a8a879e51931fd1eb77a0/lineage-20.0-20250705-HALIUM_13-waydroid_arm64-vendor.zip",
+            "version": "20.0"
+        }
+    ]
+}

@@ -1,0 +1,1372 @@
+{
+    "response": [
+        {
+            "datetime": 1775215493,
+            "filename": "lineage-20.0-20260403-VANILLA-waydroid_x86_64-system.zip",
+            "id": "2e343b14c649a685853e7957ac34feb1ca110425d78a47ebad764caae24116a8",
+            "romtype": "VANILLA",
+            "size": 838353482,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-2e343b14c649a685853e7957ac34feb1ca110425d78a47ebad764caae24116a8/lineage-20.0-20260403-VANILLA-waydroid_x86_64-system.zip",
+            "version": "20.0"
+        },
+        {
+            "datetime": 1773331954,
+            "filename": "lineage-20.0-20260312-VANILLA-waydroid_x86_64-system.zip",
+            "id": "57f1811b39a6c80c3f6084ce4734903195a1e3210a80903530b807bce4e7661c",
+            "romtype": "VANILLA",
+            "size": 835539384,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-57f1811b39a6c80c3f6084ce4734903195a1e3210a80903530b807bce4e7661c/lineage-20.0-20260312-VANILLA-waydroid_x86_64-system.zip",
+            "version": "20.0"
+        },
+        {
+            "datetime": 1772415864,
+            "filename": "lineage-20.0-20260302-VANILLA-waydroid_x86_64-system.zip",
+            "id": "21edfae3f265f21dd2ae3cfb5e5dd9b614b6862c89bd9784c6557652e3c8e4f6",
+            "romtype": "VANILLA",
+            "size": 835539123,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-21edfae3f265f21dd2ae3cfb5e5dd9b614b6862c89bd9784c6557652e3c8e4f6/lineage-20.0-20260302-VANILLA-waydroid_x86_64-system.zip",
+            "version": "20.0"
+        },
+        {
+            "datetime": 1754694022,
+            "filename": "lineage-20.0-20250809-VANILLA-waydroid_x86_64-system.zip",
+            "id": "c451aba59385dd03ba8443cf24c583ff409552984a7b3ec43891fba46c6503f1",
+            "romtype": "VANILLA",
+            "size": 830796031,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-c451aba59385dd03ba8443cf24c583ff409552984a7b3ec43891fba46c6503f1/lineage-20.0-20250809-VANILLA-waydroid_x86_64-system.zip",
+            "version": "20.0"
+        },
+        {
+            "datetime": 1754088998,
+            "filename": "lineage-20.0-20250802-VANILLA-waydroid_x86_64-system.zip",
+            "id": "ea42d46dc77cc945c7149799940da80d75b47eccbf4fe822ba0fa524ecc02132",
+            "romtype": "VANILLA",
+            "size": 830796118,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-ea42d46dc77cc945c7149799940da80d75b47eccbf4fe822ba0fa524ecc02132/lineage-20.0-20250802-VANILLA-waydroid_x86_64-system.zip",
+            "version": "20.0"
+        },
+        {
+            "datetime": 1753500045,
+            "filename": "lineage-20.0-20250726-VANILLA-waydroid_x86_64-system.zip",
+            "id": "456262891756218d2a6e6bb20c92ddbbe27ce9f61ee655d78cacf914b279a27c",
+            "romtype": "VANILLA",
+            "size": 830793432,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-456262891756218d2a6e6bb20c92ddbbe27ce9f61ee655d78cacf914b279a27c/lineage-20.0-20250726-VANILLA-waydroid_x86_64-system.zip",
+            "version": "20.0"
+        },
+        {
+            "datetime": 1752879429,
+            "filename": "lineage-20.0-20250719-VANILLA-waydroid_x86_64-system.zip",
+            "id": "775800b4bc816292cfc469eebc5dbd845177f97b8944e647dab07be89630ca8d",
+            "romtype": "VANILLA",
+            "size": 830793151,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-775800b4bc816292cfc469eebc5dbd845177f97b8944e647dab07be89630ca8d/lineage-20.0-20250719-VANILLA-waydroid_x86_64-system.zip",
+            "version": "20.0"
+        },
+        {
+            "datetime": 1752274574,
+            "filename": "lineage-20.0-20250712-VANILLA-waydroid_x86_64-system.zip",
+            "id": "ba82c4e5788d4ede06c95e99df2835614723ddafb30ba65747570ec6510651fc",
+            "romtype": "VANILLA",
+            "size": 830793306,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-ba82c4e5788d4ede06c95e99df2835614723ddafb30ba65747570ec6510651fc/lineage-20.0-20250712-VANILLA-waydroid_x86_64-system.zip",
+            "version": "20.0"
+        },
+        {
+            "datetime": 1751669781,
+            "filename": "lineage-20.0-20250705-VANILLA-waydroid_x86_64-system.zip",
+            "id": "ad1c9c6681d4a82494ca6496a100e77638488cb877151f826e7ad71fcee3be6a",
+            "romtype": "VANILLA",
+            "size": 820141149,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-ad1c9c6681d4a82494ca6496a100e77638488cb877151f826e7ad71fcee3be6a/lineage-20.0-20250705-VANILLA-waydroid_x86_64-system.zip",
+            "version": "20.0"
+        },
+        {
+            "datetime": 1751087929,
+            "filename": "lineage-18.1-20250628-VANILLA-waydroid_x86_64-system.zip",
+            "id": "662562aa718da1a584520367b39db68f001db5353ebcbf0cf93005088d284097",
+            "romtype": "VANILLA",
+            "size": 796126122,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-662562aa718da1a584520367b39db68f001db5353ebcbf0cf93005088d284097/lineage-18.1-20250628-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1750483070,
+            "filename": "lineage-18.1-20250621-VANILLA-waydroid_x86_64-system.zip",
+            "id": "882d10ea90975d35ea0cd3b8d25aebea8678183dee8e4be2c74940b25cce9da3",
+            "romtype": "VANILLA",
+            "size": 796125543,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-882d10ea90975d35ea0cd3b8d25aebea8678183dee8e4be2c74940b25cce9da3/lineage-18.1-20250621-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1749878278,
+            "filename": "lineage-18.1-20250614-VANILLA-waydroid_x86_64-system.zip",
+            "id": "190dc7bb5c8bbb96e0cdb1c476c1009d0d3eca714af0ab7da93cf1d118e4ec5c",
+            "romtype": "VANILLA",
+            "size": 796126223,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-190dc7bb5c8bbb96e0cdb1c476c1009d0d3eca714af0ab7da93cf1d118e4ec5c/lineage-18.1-20250614-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1749273440,
+            "filename": "lineage-18.1-20250607-VANILLA-waydroid_x86_64-system.zip",
+            "id": "27d66b11c11b3abac03aa22f3a2e8bbf276b6820506fdd221d85a2234d909b8c",
+            "romtype": "VANILLA",
+            "size": 794310416,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-27d66b11c11b3abac03aa22f3a2e8bbf276b6820506fdd221d85a2234d909b8c/lineage-18.1-20250607-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1748668640,
+            "filename": "lineage-18.1-20250531-VANILLA-waydroid_x86_64-system.zip",
+            "id": "f756320dfbdf07f94e841c54e8525e02c5186f8dc7c97dcc11160fef1ba9c268",
+            "romtype": "VANILLA",
+            "size": 794310620,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-f756320dfbdf07f94e841c54e8525e02c5186f8dc7c97dcc11160fef1ba9c268/lineage-18.1-20250531-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1748063895,
+            "filename": "lineage-18.1-20250524-VANILLA-waydroid_x86_64-system.zip",
+            "id": "fe5daf11a66733261ddd4c2eb2d8e647c9cee890830863bede2ecfe148392271",
+            "romtype": "VANILLA",
+            "size": 794309269,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-fe5daf11a66733261ddd4c2eb2d8e647c9cee890830863bede2ecfe148392271/lineage-18.1-20250524-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1747459041,
+            "filename": "lineage-18.1-20250517-VANILLA-waydroid_x86_64-system.zip",
+            "id": "4d8abc6ee93d8fe9e6af9a9ef3ab3e95767ec89ad7d723d1534d68f26d5b721f",
+            "romtype": "VANILLA",
+            "size": 794309277,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-4d8abc6ee93d8fe9e6af9a9ef3ab3e95767ec89ad7d723d1534d68f26d5b721f/lineage-18.1-20250517-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1746854243,
+            "filename": "lineage-18.1-20250510-VANILLA-waydroid_x86_64-system.zip",
+            "id": "11b2ff247becf92ea5b87cb45d6adb15d0384801effb815b931941a978b7dc43",
+            "romtype": "VANILLA",
+            "size": 794309498,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-11b2ff247becf92ea5b87cb45d6adb15d0384801effb815b931941a978b7dc43/lineage-18.1-20250510-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1746249464,
+            "filename": "lineage-18.1-20250503-VANILLA-waydroid_x86_64-system.zip",
+            "id": "c24aa04e6cb5ff6f31a161b5b5944cf768814ca82181dc5e71b4acf1cefd613e",
+            "romtype": "VANILLA",
+            "size": 794311641,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-c24aa04e6cb5ff6f31a161b5b5944cf768814ca82181dc5e71b4acf1cefd613e/lineage-18.1-20250503-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1745644675,
+            "filename": "lineage-18.1-20250426-VANILLA-waydroid_x86_64-system.zip",
+            "id": "051527662461033fc241ac8256d1ce97e3138b1ae42386a0b641e9d8dda31921",
+            "romtype": "VANILLA",
+            "size": 794242191,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-051527662461033fc241ac8256d1ce97e3138b1ae42386a0b641e9d8dda31921/lineage-18.1-20250426-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1745039950,
+            "filename": "lineage-18.1-20250419-VANILLA-waydroid_x86_64-system.zip",
+            "id": "7efa54ceede7b3529db298b5e407c624db1744ba59f693dacf358ee7749699a3",
+            "romtype": "VANILLA",
+            "size": 793454538,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-7efa54ceede7b3529db298b5e407c624db1744ba59f693dacf358ee7749699a3/lineage-18.1-20250419-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1744759558,
+            "filename": "lineage-18.1-20250416-VANILLA-waydroid_x86_64-system.zip",
+            "id": "cbefefdc422a4245c227e50f77a4de4316af3f25e4dd283ae53dfa114accd708",
+            "romtype": "VANILLA",
+            "size": 793454388,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-cbefefdc422a4245c227e50f77a4de4316af3f25e4dd283ae53dfa114accd708/lineage-18.1-20250416-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1744435005,
+            "filename": "lineage-18.1-20250412-VANILLA-waydroid_x86_64-system.zip",
+            "id": "4b44f289730396172bfafb8c09d948bb46250d6b6a72fd921141a2f1f3514868",
+            "romtype": "VANILLA",
+            "size": 793455238,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-4b44f289730396172bfafb8c09d948bb46250d6b6a72fd921141a2f1f3514868/lineage-18.1-20250412-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1743830202,
+            "filename": "lineage-18.1-20250405-VANILLA-waydroid_x86_64-system.zip",
+            "id": "ba1dbddeeb7b62d2e4b2d8ea549fd9cfaacd3123d911c2ab33e187a832bd71e1",
+            "romtype": "VANILLA",
+            "size": 793455033,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-ba1dbddeeb7b62d2e4b2d8ea549fd9cfaacd3123d911c2ab33e187a832bd71e1/lineage-18.1-20250405-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1743225403,
+            "filename": "lineage-18.1-20250329-VANILLA-waydroid_x86_64-system.zip",
+            "id": "04c8ed3c2a60e07aa87170b41f3bf57296805e08a5a6049c0847162d38dd3799",
+            "romtype": "VANILLA",
+            "size": 793457661,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-04c8ed3c2a60e07aa87170b41f3bf57296805e08a5a6049c0847162d38dd3799/lineage-18.1-20250329-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1742620603,
+            "filename": "lineage-18.1-20250322-VANILLA-waydroid_x86_64-system.zip",
+            "id": "f7e67a9b9780e9a54780ab99a8d839b1281854fdec819e320ebc6058f1406fb6",
+            "romtype": "VANILLA",
+            "size": 793459999,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-f7e67a9b9780e9a54780ab99a8d839b1281854fdec819e320ebc6058f1406fb6/lineage-18.1-20250322-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1742015802,
+            "filename": "lineage-18.1-20250315-VANILLA-waydroid_x86_64-system.zip",
+            "id": "5a0fa6bcb40f6ec1ae9bb0d98e4c67b65b898b333967fedf9e3bc288c57dec98",
+            "romtype": "VANILLA",
+            "size": 793459660,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-5a0fa6bcb40f6ec1ae9bb0d98e4c67b65b898b333967fedf9e3bc288c57dec98/lineage-18.1-20250315-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1741411528,
+            "filename": "lineage-18.1-20250308-VANILLA-waydroid_x86_64-system.zip",
+            "id": "ad4623e73beba33f1b7f45fa6617cb684257dfcaaeeb98bd4bcb7f0155eb1d53",
+            "romtype": "VANILLA",
+            "size": 792584129,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-ad4623e73beba33f1b7f45fa6617cb684257dfcaaeeb98bd4bcb7f0155eb1d53/lineage-18.1-20250308-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1740806204,
+            "filename": "lineage-18.1-20250301-VANILLA-waydroid_x86_64-system.zip",
+            "id": "65015874420dd194fddb83782f9151f39d000b77de43d1498b5e991525fbb929",
+            "romtype": "VANILLA",
+            "size": 789323268,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-65015874420dd194fddb83782f9151f39d000b77de43d1498b5e991525fbb929/lineage-18.1-20250301-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1740201414,
+            "filename": "lineage-18.1-20250222-VANILLA-waydroid_x86_64-system.zip",
+            "id": "dd67aff8506f62686f2480dac658ba6a7461ece925c3befd73681daa81346b1d",
+            "romtype": "VANILLA",
+            "size": 789322210,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-dd67aff8506f62686f2480dac658ba6a7461ece925c3befd73681daa81346b1d/lineage-18.1-20250222-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1739596602,
+            "filename": "lineage-18.1-20250215-VANILLA-waydroid_x86_64-system.zip",
+            "id": "61cc75de180a4cfc2c4d1f4cf01a30e5b3d108c4d8631f7ed76bbbf405ca9a76",
+            "romtype": "VANILLA",
+            "size": 789322282,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-61cc75de180a4cfc2c4d1f4cf01a30e5b3d108c4d8631f7ed76bbbf405ca9a76/lineage-18.1-20250215-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1738991863,
+            "filename": "lineage-18.1-20250208-VANILLA-waydroid_x86_64-system.zip",
+            "id": "a4250425d797702b0d60c0b702b82593ecdb08510b7afb8252233c2207d514e0",
+            "romtype": "VANILLA",
+            "size": 789322290,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-a4250425d797702b0d60c0b702b82593ecdb08510b7afb8252233c2207d514e0/lineage-18.1-20250208-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1738387004,
+            "filename": "lineage-18.1-20250201-VANILLA-waydroid_x86_64-system.zip",
+            "id": "c3ddb6e3d1bb820f61d546445dd6eb4293768d265e72c4e391261f5124290655",
+            "romtype": "VANILLA",
+            "size": 789322228,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-c3ddb6e3d1bb820f61d546445dd6eb4293768d265e72c4e391261f5124290655/lineage-18.1-20250201-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1737782205,
+            "filename": "lineage-18.1-20250125-VANILLA-waydroid_x86_64-system.zip",
+            "id": "7f8f8ba94f62c07cca825b203fc0b0ed8650d832687941e5ef79bbfd0c3d3c26",
+            "romtype": "VANILLA",
+            "size": 788254413,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-7f8f8ba94f62c07cca825b203fc0b0ed8650d832687941e5ef79bbfd0c3d3c26/lineage-18.1-20250125-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1737177405,
+            "filename": "lineage-18.1-20250118-VANILLA-waydroid_x86_64-system.zip",
+            "id": "8afafc586e460a7bc37f04f74d7de14974f9298a66b1d8dba799701f2efb1ccd",
+            "romtype": "VANILLA",
+            "size": 788897541,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-8afafc586e460a7bc37f04f74d7de14974f9298a66b1d8dba799701f2efb1ccd/lineage-18.1-20250118-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1736572588,
+            "filename": "lineage-18.1-20250111-VANILLA-waydroid_x86_64-system.zip",
+            "id": "7e8db856f76d61d3801a96ee01d2f73e8e61f4272e0a59cc5364e8d66fedf956",
+            "romtype": "VANILLA",
+            "size": 788902318,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-7e8db856f76d61d3801a96ee01d2f73e8e61f4272e0a59cc5364e8d66fedf956/lineage-18.1-20250111-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1735967803,
+            "filename": "lineage-18.1-20250104-VANILLA-waydroid_x86_64-system.zip",
+            "id": "eb572a6edde9219afd037ea79a253693dca7ee22cd1e36404fbab8d5111562d5",
+            "romtype": "VANILLA",
+            "size": 788905614,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-eb572a6edde9219afd037ea79a253693dca7ee22cd1e36404fbab8d5111562d5/lineage-18.1-20250104-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1735363003,
+            "filename": "lineage-18.1-20241228-VANILLA-waydroid_x86_64-system.zip",
+            "id": "7816c7fb57f73a9a1efa07fdf411e8833743feeae8dd11a2a245c31878b848ca",
+            "romtype": "VANILLA",
+            "size": 788902119,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-7816c7fb57f73a9a1efa07fdf411e8833743feeae8dd11a2a245c31878b848ca/lineage-18.1-20241228-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1734758204,
+            "filename": "lineage-18.1-20241221-VANILLA-waydroid_x86_64-system.zip",
+            "id": "56716b1596a95585ccd3275e96a36f06b4ab2593840d2813a342cdbbc8260761",
+            "romtype": "VANILLA",
+            "size": 788880765,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-56716b1596a95585ccd3275e96a36f06b4ab2593840d2813a342cdbbc8260761/lineage-18.1-20241221-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1734153405,
+            "filename": "lineage-18.1-20241214-VANILLA-waydroid_x86_64-system.zip",
+            "id": "3607d9570a178260a2a965f8f64ece506d8e44496e7e0e102ae648d573616c53",
+            "romtype": "VANILLA",
+            "size": 788880176,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-3607d9570a178260a2a965f8f64ece506d8e44496e7e0e102ae648d573616c53/lineage-18.1-20241214-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1733548611,
+            "filename": "lineage-18.1-20241207-VANILLA-waydroid_x86_64-system.zip",
+            "id": "1d0dae21d077c158a08fc209216cd0fe7fc3b58dc8c9943c199300e0e6af3b1c",
+            "romtype": "VANILLA",
+            "size": 788879662,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-1d0dae21d077c158a08fc209216cd0fe7fc3b58dc8c9943c199300e0e6af3b1c/lineage-18.1-20241207-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1732943803,
+            "filename": "lineage-18.1-20241130-VANILLA-waydroid_x86_64-system.zip",
+            "id": "b020b213f38c7465aadfb2ed5c7c41c09b026d1c367503c65b0400232690ab7a",
+            "romtype": "VANILLA",
+            "size": 788875554,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-b020b213f38c7465aadfb2ed5c7c41c09b026d1c367503c65b0400232690ab7a/lineage-18.1-20241130-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1732338999,
+            "filename": "lineage-18.1-20241123-VANILLA-waydroid_x86_64-system.zip",
+            "id": "491699de0b5ce3d3be2983edc3813fb7a3bc4c4bed031d05e527c7423de097b2",
+            "romtype": "VANILLA",
+            "size": 789293413,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-491699de0b5ce3d3be2983edc3813fb7a3bc4c4bed031d05e527c7423de097b2/lineage-18.1-20241123-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1731734203,
+            "filename": "lineage-18.1-20241116-VANILLA-waydroid_x86_64-system.zip",
+            "id": "a99d4414c469daebe75c35dbd808bd5c7c7f0b996d759e53514de73a387f5457",
+            "romtype": "VANILLA",
+            "size": 789293417,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-a99d4414c469daebe75c35dbd808bd5c7c7f0b996d759e53514de73a387f5457/lineage-18.1-20241116-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1731129408,
+            "filename": "lineage-18.1-20241109-VANILLA-waydroid_x86_64-system.zip",
+            "id": "d236c3339fc8a6357efcd51a94db7ce1aa2d73bb01d5aed6ca4edbe789941dc6",
+            "romtype": "VANILLA",
+            "size": 789288971,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-d236c3339fc8a6357efcd51a94db7ce1aa2d73bb01d5aed6ca4edbe789941dc6/lineage-18.1-20241109-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1730524622,
+            "filename": "lineage-18.1-20241102-VANILLA-waydroid_x86_64-system.zip",
+            "id": "4aaa56b5ddd050519ebeb6a8912ecd0ac46503e9c145be3c4bc1cc5d8ee44eaf",
+            "romtype": "VANILLA",
+            "size": 789289663,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-4aaa56b5ddd050519ebeb6a8912ecd0ac46503e9c145be3c4bc1cc5d8ee44eaf/lineage-18.1-20241102-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1729919818,
+            "filename": "lineage-18.1-20241026-VANILLA-waydroid_x86_64-system.zip",
+            "id": "4d45202be1d2265ffa2c9573bd8710c759caa880247d2ea6070240660c8ebf78",
+            "romtype": "VANILLA",
+            "size": 789284328,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-4d45202be1d2265ffa2c9573bd8710c759caa880247d2ea6070240660c8ebf78/lineage-18.1-20241026-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1729315016,
+            "filename": "lineage-18.1-20241019-VANILLA-waydroid_x86_64-system.zip",
+            "id": "e0c37481bf95f6d7945323ba362ad226d26fa0785722771780dbe6bd12cbfd79",
+            "romtype": "VANILLA",
+            "size": 788737060,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-e0c37481bf95f6d7945323ba362ad226d26fa0785722771780dbe6bd12cbfd79/lineage-18.1-20241019-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1728710216,
+            "filename": "lineage-18.1-20241012-VANILLA-waydroid_x86_64-system.zip",
+            "id": "082e523d1249e174e07220d55f3893395053d4f621ea3ba4604390be471bc591",
+            "romtype": "VANILLA",
+            "size": 788735822,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-082e523d1249e174e07220d55f3893395053d4f621ea3ba4604390be471bc591/lineage-18.1-20241012-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1728105475,
+            "filename": "lineage-18.1-20241005-VANILLA-waydroid_x86_64-system.zip",
+            "id": "cd739525d3d1fed8d06d0a16c399c9237d6eaa444036b758a5e1f65ff61918b0",
+            "romtype": "VANILLA",
+            "size": 788738595,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-cd739525d3d1fed8d06d0a16c399c9237d6eaa444036b758a5e1f65ff61918b0/lineage-18.1-20241005-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1727500617,
+            "filename": "lineage-18.1-20240928-VANILLA-waydroid_x86_64-system.zip",
+            "id": "ca2f436c4776a28bf9ff0d7b3bf9cef4986bb7aee9ebb4b7cb8e1494b50848d6",
+            "romtype": "VANILLA",
+            "size": 788735848,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-ca2f436c4776a28bf9ff0d7b3bf9cef4986bb7aee9ebb4b7cb8e1494b50848d6/lineage-18.1-20240928-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1726895810,
+            "filename": "lineage-18.1-20240921-VANILLA-waydroid_x86_64-system.zip",
+            "id": "aa98076c2d0aa4f8c2b4af082f5809938f226cd0b1af4c0389e0d3f3e4ee7064",
+            "romtype": "VANILLA",
+            "size": 787134384,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-aa98076c2d0aa4f8c2b4af082f5809938f226cd0b1af4c0389e0d3f3e4ee7064/lineage-18.1-20240921-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1726291020,
+            "filename": "lineage-18.1-20240914-VANILLA-waydroid_x86_64-system.zip",
+            "id": "29f0ceb0846d4c6ac22e37bc942e1f9b0f7df9e640bac92925835201e29f95ae",
+            "romtype": "VANILLA",
+            "size": 787133569,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-29f0ceb0846d4c6ac22e37bc942e1f9b0f7df9e640bac92925835201e29f95ae/lineage-18.1-20240914-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1725686213,
+            "filename": "lineage-18.1-20240907-VANILLA-waydroid_x86_64-system.zip",
+            "id": "af5da9ccbad2ac360cae11ba0b8fcc82b5364e69defff2ebae9544b599c070c8",
+            "romtype": "VANILLA",
+            "size": 787133093,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-af5da9ccbad2ac360cae11ba0b8fcc82b5364e69defff2ebae9544b599c070c8/lineage-18.1-20240907-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1725081437,
+            "filename": "lineage-18.1-20240831-VANILLA-waydroid_x86_64-system.zip",
+            "id": "a8d54646f3bc57bfba71d397005b57d8f3d8c8067e7a1e4084e55263f6e375b1",
+            "romtype": "VANILLA",
+            "size": 787132431,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-a8d54646f3bc57bfba71d397005b57d8f3d8c8067e7a1e4084e55263f6e375b1/lineage-18.1-20240831-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1724476687,
+            "filename": "lineage-18.1-20240824-VANILLA-waydroid_x86_64-system.zip",
+            "id": "3218d05a835c8f46dd115180951507d4cc60420a2f2aa29f35ee963fff34d936",
+            "romtype": "VANILLA",
+            "size": 774518040,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-3218d05a835c8f46dd115180951507d4cc60420a2f2aa29f35ee963fff34d936/lineage-18.1-20240824-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1723871758,
+            "filename": "lineage-18.1-20240817-VANILLA-waydroid_x86_64-system.zip",
+            "id": "8154ec63378ea2dc0e5e7dceb7b1ea59c3af9aa45760e51e989dd5ee11126e80",
+            "romtype": "VANILLA",
+            "size": 774513789,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-8154ec63378ea2dc0e5e7dceb7b1ea59c3af9aa45760e51e989dd5ee11126e80/lineage-18.1-20240817-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1723266959,
+            "filename": "lineage-18.1-20240810-VANILLA-waydroid_x86_64-system.zip",
+            "id": "705fc9e68ebf9f029242b231df63db06c785a60fed10fe8d4bd1b55f42eb55ab",
+            "romtype": "VANILLA",
+            "size": 774514124,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-705fc9e68ebf9f029242b231df63db06c785a60fed10fe8d4bd1b55f42eb55ab/lineage-18.1-20240810-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1722662165,
+            "filename": "lineage-18.1-20240803-VANILLA-waydroid_x86_64-system.zip",
+            "id": "cc9fea5f215a7d712792e45435ed16be3947a1286bef7a36b00e5132d787f3d1",
+            "romtype": "VANILLA",
+            "size": 773076627,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-cc9fea5f215a7d712792e45435ed16be3947a1286bef7a36b00e5132d787f3d1/lineage-18.1-20240803-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1722057381,
+            "filename": "lineage-18.1-20240727-VANILLA-waydroid_x86_64-system.zip",
+            "id": "a8d903c9354cdc07ae839ce6dce61923dc40c00be83ff40bb1ca9dae34a65949",
+            "romtype": "VANILLA",
+            "size": 773078803,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-a8d903c9354cdc07ae839ce6dce61923dc40c00be83ff40bb1ca9dae34a65949/lineage-18.1-20240727-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1721452568,
+            "filename": "lineage-18.1-20240720-VANILLA-waydroid_x86_64-system.zip",
+            "id": "7c03ce892e7691ece1f9b07ca78203a1a70969fb8d7e9bea094cb694e5fbebc8",
+            "romtype": "VANILLA",
+            "size": 773081768,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-7c03ce892e7691ece1f9b07ca78203a1a70969fb8d7e9bea094cb694e5fbebc8/lineage-18.1-20240720-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1720847862,
+            "filename": "lineage-18.1-20240713-VANILLA-waydroid_x86_64-system.zip",
+            "id": "3670d3b5b807135c1102bea085aff7d0633a758427cb4f7fa641d7d693de92fe",
+            "romtype": "VANILLA",
+            "size": 773085738,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-3670d3b5b807135c1102bea085aff7d0633a758427cb4f7fa641d7d693de92fe/lineage-18.1-20240713-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1720242960,
+            "filename": "lineage-18.1-20240706-VANILLA-waydroid_x86_64-system.zip",
+            "id": "8b46d90038a521a6c03e923fd503494f2b4b048ced793e85bac11c78449807a9",
+            "romtype": "VANILLA",
+            "size": 773086363,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-8b46d90038a521a6c03e923fd503494f2b4b048ced793e85bac11c78449807a9/lineage-18.1-20240706-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1719638157,
+            "filename": "lineage-18.1-20240629-VANILLA-waydroid_x86_64-system.zip",
+            "id": "7d848e6a5b70561731288a3f1dbefb1fde384eed3a855138c4b8ee6101ac36a8",
+            "romtype": "VANILLA",
+            "size": 773086472,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-7d848e6a5b70561731288a3f1dbefb1fde384eed3a855138c4b8ee6101ac36a8/lineage-18.1-20240629-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1719033366,
+            "filename": "lineage-18.1-20240622-VANILLA-waydroid_x86_64-system.zip",
+            "id": "821365436b8cbbddcb73eb20950a9aabfa043832b7d208df9f4aeeb433221e8b",
+            "romtype": "VANILLA",
+            "size": 773074844,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-821365436b8cbbddcb73eb20950a9aabfa043832b7d208df9f4aeeb433221e8b/lineage-18.1-20240622-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1718428556,
+            "filename": "lineage-18.1-20240615-VANILLA-waydroid_x86_64-system.zip",
+            "id": "7d51cc017ee3f197775f30133f9d27300d509abec4800647c751a9f8e6dcc280",
+            "romtype": "VANILLA",
+            "size": 773082501,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-7d51cc017ee3f197775f30133f9d27300d509abec4800647c751a9f8e6dcc280/lineage-18.1-20240615-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1717823880,
+            "filename": "lineage-18.1-20240608-VANILLA-waydroid_x86_64-system.zip",
+            "id": "9c94b209d4b78e09e6632b58c7778deb912b05f2b07c3c9fc809abcd13ea7251",
+            "romtype": "VANILLA",
+            "size": 773082243,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-9c94b209d4b78e09e6632b58c7778deb912b05f2b07c3c9fc809abcd13ea7251/lineage-18.1-20240608-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1717219045,
+            "filename": "lineage-18.1-20240601-VANILLA-waydroid_x86_64-system.zip",
+            "id": "e5d2a6f9167f151f13b44e404c6e6c227f3393858dbe2700651bf75995ff5d53",
+            "romtype": "VANILLA",
+            "size": 773081307,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-e5d2a6f9167f151f13b44e404c6e6c227f3393858dbe2700651bf75995ff5d53/lineage-18.1-20240601-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1716614237,
+            "filename": "lineage-18.1-20240525-VANILLA-waydroid_x86_64-system.zip",
+            "id": "6669ced18a7059ad9814d37e9313757c08a72056a452b7a5e96752a82909f768",
+            "romtype": "VANILLA",
+            "size": 772204744,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-6669ced18a7059ad9814d37e9313757c08a72056a452b7a5e96752a82909f768/lineage-18.1-20240525-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1716009473,
+            "filename": "lineage-18.1-20240518-VANILLA-waydroid_x86_64-system.zip",
+            "id": "de607c517b7ac95bb4fbe33dc586f1b7056c78673b934c2331022adf155b2914",
+            "romtype": "VANILLA",
+            "size": 772207537,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-de607c517b7ac95bb4fbe33dc586f1b7056c78673b934c2331022adf155b2914/lineage-18.1-20240518-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1715404654,
+            "filename": "lineage-18.1-20240511-VANILLA-waydroid_x86_64-system.zip",
+            "id": "926e4d1a4dd19e8ed7ed65b761512330bd7c49f299cef47320883c61914eb149",
+            "romtype": "VANILLA",
+            "size": 772208154,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-926e4d1a4dd19e8ed7ed65b761512330bd7c49f299cef47320883c61914eb149/lineage-18.1-20240511-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1714799863,
+            "filename": "lineage-18.1-20240504-VANILLA-waydroid_x86_64-system.zip",
+            "id": "66449ee20c3f5cf63df1137141d672fc347a220b79355c4ef13cb9bbd77be7bd",
+            "romtype": "VANILLA",
+            "size": 772203444,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-66449ee20c3f5cf63df1137141d672fc347a220b79355c4ef13cb9bbd77be7bd/lineage-18.1-20240504-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1714195056,
+            "filename": "lineage-18.1-20240427-VANILLA-waydroid_x86_64-system.zip",
+            "id": "318d845cff2b1db2a8b973683732cd8f97133285a3af89fefa7b2e650843610e",
+            "romtype": "VANILLA",
+            "size": 769864427,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-318d845cff2b1db2a8b973683732cd8f97133285a3af89fefa7b2e650843610e/lineage-18.1-20240427-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1713595751,
+            "filename": "lineage-18.1-20240420-VANILLA-waydroid_x86_64-system.zip",
+            "id": "de8e0bcaf0efba8cdb0bf5cdc1a7d89f7a8d101f19a0725e74c5207b63ae316f",
+            "romtype": "VANILLA",
+            "size": 769864546,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-de8e0bcaf0efba8cdb0bf5cdc1a7d89f7a8d101f19a0725e74c5207b63ae316f/lineage-18.1-20240420-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1712985447,
+            "filename": "lineage-18.1-20240413-VANILLA-waydroid_x86_64-system.zip",
+            "id": "c13a30422411cee641884c9cc3f64edad097afd530e7f2d2f2c6bf7e4980a636",
+            "romtype": "VANILLA",
+            "size": 769863246,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-c13a30422411cee641884c9cc3f64edad097afd530e7f2d2f2c6bf7e4980a636/lineage-18.1-20240413-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1712380640,
+            "filename": "lineage-18.1-20240406-VANILLA-waydroid_x86_64-system.zip",
+            "id": "d64b13de448f6ad8304d970ee093917e7c2f6fe0cc701398095121767877093b",
+            "romtype": "VANILLA",
+            "size": 769862533,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-d64b13de448f6ad8304d970ee093917e7c2f6fe0cc701398095121767877093b/lineage-18.1-20240406-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1711775849,
+            "filename": "lineage-18.1-20240330-VANILLA-waydroid_x86_64-system.zip",
+            "id": "32d4a8780dbf7d4b9bfd9b1916d63b11f4328b2a51f570b926022422d463f104",
+            "romtype": "VANILLA",
+            "size": 769865022,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-32d4a8780dbf7d4b9bfd9b1916d63b11f4328b2a51f570b926022422d463f104/lineage-18.1-20240330-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1711171077,
+            "filename": "lineage-18.1-20240323-VANILLA-waydroid_x86_64-system.zip",
+            "id": "08b207694899b1fbbbb509a4d8fa81d07822fb63e4736204e115f7a2d6df6973",
+            "romtype": "VANILLA",
+            "size": 769865911,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-08b207694899b1fbbbb509a4d8fa81d07822fb63e4736204e115f7a2d6df6973/lineage-18.1-20240323-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1710566280,
+            "filename": "lineage-18.1-20240316-VANILLA-waydroid_x86_64-system.zip",
+            "id": "924051b6a251620743623fb48f377a1ff35ce8e29e31076263a8fd822d430e2a",
+            "romtype": "VANILLA",
+            "size": 769866636,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-924051b6a251620743623fb48f377a1ff35ce8e29e31076263a8fd822d430e2a/lineage-18.1-20240316-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1709961530,
+            "filename": "lineage-18.1-20240309-VANILLA-waydroid_x86_64-system.zip",
+            "id": "f6c007f69d83b7efc59810601025e1ee8f18098b7d1405c7a85d641ffbee87d8",
+            "romtype": "VANILLA",
+            "size": 769866775,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-f6c007f69d83b7efc59810601025e1ee8f18098b7d1405c7a85d641ffbee87d8/lineage-18.1-20240309-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1708751846,
+            "filename": "lineage-18.1-20240224-VANILLA-waydroid_x86_64-system.zip",
+            "id": "440e29ea36c97b5d78045a18e0b3584ec870332df8b24fd200ccd659fb7fa925",
+            "romtype": "VANILLA",
+            "size": 769457868,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-440e29ea36c97b5d78045a18e0b3584ec870332df8b24fd200ccd659fb7fa925/lineage-18.1-20240224-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1708147047,
+            "filename": "lineage-18.1-20240217-VANILLA-waydroid_x86_64-system.zip",
+            "id": "1b9b7297c8e1ffbcb40cc02002122f11314372d52e17cf4ecaa54027a08b3830",
+            "romtype": "VANILLA",
+            "size": 769451159,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-1b9b7297c8e1ffbcb40cc02002122f11314372d52e17cf4ecaa54027a08b3830/lineage-18.1-20240217-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1707542245,
+            "filename": "lineage-18.1-20240210-VANILLA-waydroid_x86_64-system.zip",
+            "id": "ba73c42b48d587b00432fb933bf5b820970c90ff86b6c1ecfbf6ddff8d977fa4",
+            "romtype": "VANILLA",
+            "size": 769433578,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-ba73c42b48d587b00432fb933bf5b820970c90ff86b6c1ecfbf6ddff8d977fa4/lineage-18.1-20240210-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1706937456,
+            "filename": "lineage-18.1-20240203-VANILLA-waydroid_x86_64-system.zip",
+            "id": "63a57018439ce284dab500c323891483d1beec9e5863d475d2a9bb0155cc77db",
+            "romtype": "VANILLA",
+            "size": 769437729,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-63a57018439ce284dab500c323891483d1beec9e5863d475d2a9bb0155cc77db/lineage-18.1-20240203-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1706332655,
+            "filename": "lineage-18.1-20240127-VANILLA-waydroid_x86_64-system.zip",
+            "id": "88ce5d1ab2771bd40ddde1d04d92b86a2d40336c1365e321e12763351303dbb5",
+            "romtype": "VANILLA",
+            "size": 768813166,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-88ce5d1ab2771bd40ddde1d04d92b86a2d40336c1365e321e12763351303dbb5/lineage-18.1-20240127-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1705727895,
+            "filename": "lineage-18.1-20240120-VANILLA-waydroid_x86_64-system.zip",
+            "id": "ba4dde061b9a462f2e063a3f365e0890b1b9146dfc3bb524f7dd25c0784f9854",
+            "romtype": "VANILLA",
+            "size": 768812931,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-ba4dde061b9a462f2e063a3f365e0890b1b9146dfc3bb524f7dd25c0784f9854/lineage-18.1-20240120-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1705123053,
+            "filename": "lineage-18.1-20240113-VANILLA-waydroid_x86_64-system.zip",
+            "id": "d2932561cee8c3cb04b9114470c518644ec707851cc16411d0d1fe3685fc8ce2",
+            "romtype": "VANILLA",
+            "size": 768806886,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-d2932561cee8c3cb04b9114470c518644ec707851cc16411d0d1fe3685fc8ce2/lineage-18.1-20240113-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1704518256,
+            "filename": "lineage-18.1-20240106-VANILLA-waydroid_x86_64-system.zip",
+            "id": "0656327c3767f42a4a14bbfb13f3d4a651f0211cbc6be3ba3018c515d1ce2387",
+            "romtype": "VANILLA",
+            "size": 768806089,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-0656327c3767f42a4a14bbfb13f3d4a651f0211cbc6be3ba3018c515d1ce2387/lineage-18.1-20240106-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1703913453,
+            "filename": "lineage-18.1-20231230-VANILLA-waydroid_x86_64-system.zip",
+            "id": "d1c1cbb2afc03f3a6f027f11f97b05dabc48e783c91d3d413b2cf1d1d6489c53",
+            "romtype": "VANILLA",
+            "size": 768808713,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-d1c1cbb2afc03f3a6f027f11f97b05dabc48e783c91d3d413b2cf1d1d6489c53/lineage-18.1-20231230-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1703308767,
+            "filename": "lineage-18.1-20231223-VANILLA-waydroid_x86_64-system.zip",
+            "id": "2a871b07695368f9b878393f133ed2629c1a00b99199e012e389c6474ba87960",
+            "romtype": "VANILLA",
+            "size": 768866678,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-2a871b07695368f9b878393f133ed2629c1a00b99199e012e389c6474ba87960/lineage-18.1-20231223-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1702703856,
+            "filename": "lineage-18.1-20231216-VANILLA-waydroid_x86_64-system.zip",
+            "id": "fcb59a26a001dd3926fefafa77d79fd54c46ce7a3bffa427cacfe208e8b56789",
+            "romtype": "VANILLA",
+            "size": 768848916,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-fcb59a26a001dd3926fefafa77d79fd54c46ce7a3bffa427cacfe208e8b56789/lineage-18.1-20231216-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1702099478,
+            "filename": "lineage-18.1-20231209-VANILLA-waydroid_x86_64-system.zip",
+            "id": "8db8011bc6fd3aae77c96f1b026b7af1edb9aeb28f26fa529a0677d666555a79",
+            "romtype": "VANILLA",
+            "size": 767371926,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-8db8011bc6fd3aae77c96f1b026b7af1edb9aeb28f26fa529a0677d666555a79/lineage-18.1-20231209-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1701494278,
+            "filename": "lineage-18.1-20231202-VANILLA-waydroid_x86_64-system.zip",
+            "id": "9005187546b298de4c507f0ce374ccfca17824068afebafd37a7618d8849aea3",
+            "romtype": "VANILLA",
+            "size": 767370447,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-9005187546b298de4c507f0ce374ccfca17824068afebafd37a7618d8849aea3/lineage-18.1-20231202-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1700889492,
+            "filename": "lineage-18.1-20231125-VANILLA-waydroid_x86_64-system.zip",
+            "id": "faebe8d4af575a3f8b724ed2c4a7138f991bbf22cc5870a3849249f3597e59dc",
+            "romtype": "VANILLA",
+            "size": 767370092,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-faebe8d4af575a3f8b724ed2c4a7138f991bbf22cc5870a3849249f3597e59dc/lineage-18.1-20231125-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1700284706,
+            "filename": "lineage-18.1-20231118-VANILLA-waydroid_x86_64-system.zip",
+            "id": "0a07f9daf673a9a8eb62150eb77c3e63f5a2dcf266c7eb460f450363fc2a58c6",
+            "romtype": "VANILLA",
+            "size": 767371411,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-0a07f9daf673a9a8eb62150eb77c3e63f5a2dcf266c7eb460f450363fc2a58c6/lineage-18.1-20231118-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1699680339,
+            "filename": "lineage-18.1-20231111-VANILLA-waydroid_x86_64-system.zip",
+            "id": "7781d5fe568cafc71f18bfeefe089f9c285e8d0f2bcf66569d1c82a4a9eaa40c",
+            "romtype": "VANILLA",
+            "size": 767070707,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-7781d5fe568cafc71f18bfeefe089f9c285e8d0f2bcf66569d1c82a4a9eaa40c/lineage-18.1-20231111-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1699075060,
+            "filename": "lineage-18.1-20231104-VANILLA-waydroid_x86_64-system.zip",
+            "id": "0c4bcfa58be55907d7afa21369e90f34e9fe0376c72a5268224be2295b0d1798",
+            "romtype": "VANILLA",
+            "size": 767067629,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-0c4bcfa58be55907d7afa21369e90f34e9fe0376c72a5268224be2295b0d1798/lineage-18.1-20231104-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1698470295,
+            "filename": "lineage-18.1-20231028-VANILLA-waydroid_x86_64-system.zip",
+            "id": "992853ed6849fd26cb750d880016ff605910661229fb3ab22447a7e6f1c8c112",
+            "romtype": "VANILLA",
+            "size": 773238880,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-992853ed6849fd26cb750d880016ff605910661229fb3ab22447a7e6f1c8c112/lineage-18.1-20231028-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1696655894,
+            "filename": "lineage-18.1-20231007-VANILLA-waydroid_x86_64-system.zip",
+            "id": "19ae5b09c66a79a607484c52a8e36f689ab189cb12443837720af845a0f4f798",
+            "romtype": "VANILLA",
+            "size": 773218583,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-19ae5b09c66a79a607484c52a8e36f689ab189cb12443837720af845a0f4f798/lineage-18.1-20231007-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1696051067,
+            "filename": "lineage-18.1-20230930-VANILLA-waydroid_x86_64-system.zip",
+            "id": "2282005d1f4112bbc9dd8087325ffee5f2b4ff477277ad06cb603f69c02831ab",
+            "romtype": "VANILLA",
+            "size": 773225345,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-2282005d1f4112bbc9dd8087325ffee5f2b4ff477277ad06cb603f69c02831ab/lineage-18.1-20230930-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1695446298,
+            "filename": "lineage-18.1-20230923-VANILLA-waydroid_x86_64-system.zip",
+            "id": "9072cf5742f3f78fd705c8854bec6998e14a8fc6af7e0d35113172d150776e50",
+            "romtype": "VANILLA",
+            "size": 773215964,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-9072cf5742f3f78fd705c8854bec6998e14a8fc6af7e0d35113172d150776e50/lineage-18.1-20230923-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1694841441,
+            "filename": "lineage-18.1-20230916-VANILLA-waydroid_x86_64-system.zip",
+            "id": "52a97fd3d5f56058091140a8f9b980ab62bcb181b2d1c28be2827f3fe0f927fa",
+            "romtype": "VANILLA",
+            "size": 771164698,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-52a97fd3d5f56058091140a8f9b980ab62bcb181b2d1c28be2827f3fe0f927fa/lineage-18.1-20230916-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1694236634,
+            "filename": "lineage-18.1-20230909-VANILLA-waydroid_x86_64-system.zip",
+            "id": "f87c0b2bf5a1e4953a8bed63b3a372873c3690bfa81e05f56437713344487d51",
+            "romtype": "VANILLA",
+            "size": 771162193,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-f87c0b2bf5a1e4953a8bed63b3a372873c3690bfa81e05f56437713344487d51/lineage-18.1-20230909-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1693631881,
+            "filename": "lineage-18.1-20230902-VANILLA-waydroid_x86_64-system.zip",
+            "id": "6877cf870ecd7c1552015c2b88a1efc9fab55e570cb0695dd8f1a5a7f6d2110e",
+            "romtype": "VANILLA",
+            "size": 771185361,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-6877cf870ecd7c1552015c2b88a1efc9fab55e570cb0695dd8f1a5a7f6d2110e/lineage-18.1-20230902-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1693027046,
+            "filename": "lineage-18.1-20230826-VANILLA-waydroid_x86_64-system.zip",
+            "id": "b77dfa312a2817e2d04af0f39dd1a8c28904bd29bdfb06a9aac127d385fe8b3f",
+            "romtype": "VANILLA",
+            "size": 771189621,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-b77dfa312a2817e2d04af0f39dd1a8c28904bd29bdfb06a9aac127d385fe8b3f/lineage-18.1-20230826-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1692422331,
+            "filename": "lineage-18.1-20230819-VANILLA-waydroid_x86_64-system.zip",
+            "id": "8a9411eae47ce28e9df2ea6b40e31cf3a36889f0af3616de9fa6f13676c499b9",
+            "romtype": "VANILLA",
+            "size": 771192032,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-8a9411eae47ce28e9df2ea6b40e31cf3a36889f0af3616de9fa6f13676c499b9/lineage-18.1-20230819-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1691817474,
+            "filename": "lineage-18.1-20230812-VANILLA-waydroid_x86_64-system.zip",
+            "id": "ddc1cf7b067ed5e182cc85d704111e8710c6d4d4c2bf242d5aadbcfe34fc906b",
+            "romtype": "VANILLA",
+            "size": 770461547,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-ddc1cf7b067ed5e182cc85d704111e8710c6d4d4c2bf242d5aadbcfe34fc906b/lineage-18.1-20230812-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1691212643,
+            "filename": "lineage-18.1-20230805-VANILLA-waydroid_x86_64-system.zip",
+            "id": "50bf718557751a0267dc17fc6937a8a20a1918cd58343ea1bf9970e1a084c67d",
+            "romtype": "VANILLA",
+            "size": 770488363,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-50bf718557751a0267dc17fc6937a8a20a1918cd58343ea1bf9970e1a084c67d/lineage-18.1-20230805-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1690607849,
+            "filename": "lineage-18.1-20230729-VANILLA-waydroid_x86_64-system.zip",
+            "id": "33a4b2af5ecd10b0cb338fb75d722d6ae70e1dc73668c93b9493126b0213b59c",
+            "romtype": "VANILLA",
+            "size": 770490259,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-33a4b2af5ecd10b0cb338fb75d722d6ae70e1dc73668c93b9493126b0213b59c/lineage-18.1-20230729-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1690085411,
+            "filename": "lineage-18.1-20230723-VANILLA-waydroid_x86_64-system.zip",
+            "id": "d167a13bbe1eeee39d39b08e0c6af06f3ff76ec7d7786c53ade0af03aa740f20",
+            "romtype": "VANILLA",
+            "size": 769668684,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-d167a13bbe1eeee39d39b08e0c6af06f3ff76ec7d7786c53ade0af03aa740f20/lineage-18.1-20230723-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1682140641,
+            "filename": "lineage-18.1-20230422-VANILLA-waydroid_x86_64-system.zip",
+            "id": "8bc82f766bd5f836fd41a073cf4378d8e574c60cf30894deb9521213a2b18416",
+            "romtype": "VANILLA",
+            "size": 769852867,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-8bc82f766bd5f836fd41a073cf4378d8e574c60cf30894deb9521213a2b18416/lineage-18.1-20230422-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1681535843,
+            "filename": "lineage-18.1-20230415-VANILLA-waydroid_x86_64-system.zip",
+            "id": "9df7dc6fe33a141300cec81d75ecef32f4193a6ea11ca2e435c11e346acf2b46",
+            "romtype": "VANILLA",
+            "size": 769844895,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-9df7dc6fe33a141300cec81d75ecef32f4193a6ea11ca2e435c11e346acf2b46/lineage-18.1-20230415-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1680931027,
+            "filename": "lineage-18.1-20230408-VANILLA-waydroid_x86_64-system.zip",
+            "id": "d6e7c7de6deec702b1f52c454c6a1a09d9c966bd8bed1e564be6c19c983c147d",
+            "romtype": "VANILLA",
+            "size": 769298615,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-d6e7c7de6deec702b1f52c454c6a1a09d9c966bd8bed1e564be6c19c983c147d/lineage-18.1-20230408-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1680382713,
+            "filename": "lineage-18.1-20230402-VANILLA-waydroid_x86_64-system.zip",
+            "id": "840728716beddc58206aea0f465272b5bbedfd95085ced59df53e984d7213b94",
+            "romtype": "VANILLA",
+            "size": 769301908,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-840728716beddc58206aea0f465272b5bbedfd95085ced59df53e984d7213b94/lineage-18.1-20230402-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1679116647,
+            "filename": "lineage-18.1-20230318-VANILLA-waydroid_x86_64-system.zip",
+            "id": "57424a00ebce78bc8bc9e1331bd312e2c8a9152e72dd0f9eac9689ffe6d8ad0d",
+            "romtype": "VANILLA",
+            "size": 769291242,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-57424a00ebce78bc8bc9e1331bd312e2c8a9152e72dd0f9eac9689ffe6d8ad0d/lineage-18.1-20230318-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1678511853,
+            "filename": "lineage-18.1-20230311-VANILLA-waydroid_x86_64-system.zip",
+            "id": "5ca5f2a6db1b80ab9fc3ba2df021fd0ab77e183c2fcf2273a0763e6cab4f46a9",
+            "romtype": "VANILLA",
+            "size": 767262672,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-5ca5f2a6db1b80ab9fc3ba2df021fd0ab77e183c2fcf2273a0763e6cab4f46a9/lineage-18.1-20230311-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1677907029,
+            "filename": "lineage-18.1-20230304-VANILLA-waydroid_x86_64-system.zip",
+            "id": "e5270848b8ca1f07d7369abd9cc4f7707e08f246610930a99bbc4722411b8109",
+            "romtype": "VANILLA",
+            "size": 767262541,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-e5270848b8ca1f07d7369abd9cc4f7707e08f246610930a99bbc4722411b8109/lineage-18.1-20230304-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1677302265,
+            "filename": "lineage-18.1-20230225-VANILLA-waydroid_x86_64-system.zip",
+            "id": "a416ea53db9c1a4f61fafbe9bc05c14474be20af25e6fa6c45ae1554c5106604",
+            "romtype": "VANILLA",
+            "size": 767261970,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-a416ea53db9c1a4f61fafbe9bc05c14474be20af25e6fa6c45ae1554c5106604/lineage-18.1-20230225-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1676697464,
+            "filename": "lineage-18.1-20230218-VANILLA-waydroid_x86_64-system.zip",
+            "id": "550fb29d4cdf0820a37cb3146fcb859da515f84d23e50a958dd74eb832929a40",
+            "romtype": "VANILLA",
+            "size": 767261472,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-550fb29d4cdf0820a37cb3146fcb859da515f84d23e50a958dd74eb832929a40/lineage-18.1-20230218-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1676151136,
+            "filename": "lineage-18.1-20230212-VANILLA-waydroid_x86_64-system.zip",
+            "id": "8a78ffbe9fb2a527cf9e3e5347d0fcf8c4a2249c70ac7e21b453cbc1d0574a09",
+            "romtype": "VANILLA",
+            "size": 767244957,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-8a78ffbe9fb2a527cf9e3e5347d0fcf8c4a2249c70ac7e21b453cbc1d0574a09/lineage-18.1-20230212-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1674883062,
+            "filename": "lineage-18.1-20230128-VANILLA-waydroid_x86_64-system.zip",
+            "id": "76479c9c918fcf84889be035353a0cb95f76b0f071f62ee15159a3415b9c1eb7",
+            "romtype": "VANILLA",
+            "size": 766573217,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-76479c9c918fcf84889be035353a0cb95f76b0f071f62ee15159a3415b9c1eb7/lineage-18.1-20230128-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1674278260,
+            "filename": "lineage-18.1-20230121-VANILLA-waydroid_x86_64-system.zip",
+            "id": "5e7980807c658998ac6f24e13910d8d5792bb5bba675940f2c75572136be9a69",
+            "romtype": "VANILLA",
+            "size": 766576930,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-5e7980807c658998ac6f24e13910d8d5792bb5bba675940f2c75572136be9a69/lineage-18.1-20230121-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1674154522,
+            "filename": "lineage-18.1-20230120-VANILLA-waydroid_x86_64-system.zip",
+            "id": "3d81ca82451c1cb4dbce64cc142acb49750e2a109448356810ad8477abb662f7",
+            "romtype": "VANILLA",
+            "size": 766576396,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-3d81ca82451c1cb4dbce64cc142acb49750e2a109448356810ad8477abb662f7/lineage-18.1-20230120-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1673673454,
+            "filename": "lineage-18.1-20230114-VANILLA-waydroid_x86_64-system.zip",
+            "id": "bac31186e8f847434f3d1e5f887661b35674891ffc58ccca98c2e319835cbd45",
+            "romtype": "VANILLA",
+            "size": 766523742,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-bac31186e8f847434f3d1e5f887661b35674891ffc58ccca98c2e319835cbd45/lineage-18.1-20230114-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1673068671,
+            "filename": "lineage-18.1-20230107-VANILLA-waydroid_x86_64-system.zip",
+            "id": "ffeb6ec321c60e683f733a2c0391a7c55a7618d8caa11f7baf02207ad57fd73b",
+            "romtype": "VANILLA",
+            "size": 766489329,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-ffeb6ec321c60e683f733a2c0391a7c55a7618d8caa11f7baf02207ad57fd73b/lineage-18.1-20230107-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1672463857,
+            "filename": "lineage-18.1-20221231-VANILLA-waydroid_x86_64-system.zip",
+            "id": "934fbb925fa66c727ddf3cd486dcef53adeff767d594a4e6998138fa3dae4ef9",
+            "romtype": "VANILLA",
+            "size": 766487695,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-934fbb925fa66c727ddf3cd486dcef53adeff767d594a4e6998138fa3dae4ef9/lineage-18.1-20221231-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1671859045,
+            "filename": "lineage-18.1-20221224-VANILLA-waydroid_x86_64-system.zip",
+            "id": "d9f79b1b958f3d55c589f6417a825401aee7c5a82d9cad08c11a4204378610c4",
+            "romtype": "VANILLA",
+            "size": 766482797,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-d9f79b1b958f3d55c589f6417a825401aee7c5a82d9cad08c11a4204378610c4/lineage-18.1-20221224-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1671254225,
+            "filename": "lineage-18.1-20221217-VANILLA-waydroid_x86_64-system.zip",
+            "id": "4c4706ac5a324e7ceb869923a3e1ca073b43f2bec14520508c66e277ba2429de",
+            "romtype": "VANILLA",
+            "size": 766487907,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-4c4706ac5a324e7ceb869923a3e1ca073b43f2bec14520508c66e277ba2429de/lineage-18.1-20221217-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1670649474,
+            "filename": "lineage-18.1-20221210-VANILLA-waydroid_x86_64-system.zip",
+            "id": "97e22a3986af0227230006115b8c56d5f0240bd020137aa4c6e8f4b494b2c3a7",
+            "romtype": "VANILLA",
+            "size": 766488948,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-97e22a3986af0227230006115b8c56d5f0240bd020137aa4c6e8f4b494b2c3a7/lineage-18.1-20221210-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1670351283,
+            "filename": "lineage-18.1-20221207-VANILLA-waydroid_x86_64-system.zip",
+            "id": "230d5009ce4b04fc73653ad4be33f378297f2f3eabc5351150b1ce6770793e0b",
+            "romtype": "VANILLA",
+            "size": 766490101,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-230d5009ce4b04fc73653ad4be33f378297f2f3eabc5351150b1ce6770793e0b/lineage-18.1-20221207-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1667949828,
+            "filename": "lineage-18.1-20221109-VANILLA-waydroid_x86_64-system.zip",
+            "id": "f2262a8109291104c56d4dcc777e2f7b8d5341c00a8ba7ba75dd71312b373d69",
+            "romtype": "VANILLA",
+            "size": 765987831,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-f2262a8109291104c56d4dcc777e2f7b8d5341c00a8ba7ba75dd71312b373d69/lineage-18.1-20221109-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1667828908,
+            "filename": "lineage-18.1-20221107-VANILLA-waydroid_x86_64-system.zip",
+            "id": "29bfaaa4e29df87b797f62640df43b28b3d7a7e3bd26fc811006bf2d77a32c0a",
+            "romtype": "VANILLA",
+            "size": 764213276,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-29bfaaa4e29df87b797f62640df43b28b3d7a7e3bd26fc811006bf2d77a32c0a/lineage-18.1-20221107-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1667128144,
+            "filename": "lineage-18.1-20221030-VANILLA-waydroid_x86_64-system.zip",
+            "id": "4176c384b25a97e24cb4147660234afd80898e9d15f02b889d9c794675fcd985",
+            "romtype": "VANILLA",
+            "size": 763252239,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-4176c384b25a97e24cb4147660234afd80898e9d15f02b889d9c794675fcd985/lineage-18.1-20221030-VANILLA-waydroid_x86_64-system.zip",
+            "version": "18.1"
+        },
+        {
+            "datetime": 1658551586,
+            "filename": "lineage-17.1-20220723-VANILLA-waydroid_x86_64-system.zip",
+            "id": "82023e7b04adeea64fa0073f335f55300b67c8f4cf866eb1629da2fd2eae072d",
+            "romtype": "VANILLA",
+            "size": 757970493,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-82023e7b04adeea64fa0073f335f55300b67c8f4cf866eb1629da2fd2eae072d/lineage-17.1-20220723-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1652575094,
+            "filename": "lineage-17.1-20220515-VANILLA-waydroid_x86_64-system.zip",
+            "id": "c77c5fa1a6c2db35e633ada57516823aad4d76fda546c2b8de9b606234e25e24",
+            "romtype": "VANILLA",
+            "size": 757801085,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-c77c5fa1a6c2db35e633ada57516823aad4d76fda546c2b8de9b606234e25e24/lineage-17.1-20220515-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1647472263,
+            "filename": "lineage-17.1-20220316-VANILLA-waydroid_x86_64-system.zip",
+            "id": "da8f71739a258a4e65f93b69b735e25c3f9052cce318c4e855510b50ecbb1701",
+            "romtype": "VANILLA",
+            "size": 752657515,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-da8f71739a258a4e65f93b69b735e25c3f9052cce318c4e855510b50ecbb1701/lineage-17.1-20220316-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1634803332,
+            "filename": "lineage-17.1-20211021-VANILLA-waydroid_x86_64-system.zip",
+            "id": "c56225255380e1707a0380555e1d55961a5bc5e670b2b769724b52ae40283d84",
+            "romtype": "VANILLA",
+            "size": 757033921,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-c56225255380e1707a0380555e1d55961a5bc5e670b2b769724b52ae40283d84/lineage-17.1-20211021-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1634670009,
+            "filename": "lineage-17.1-20211019-VANILLA-waydroid_x86_64-system.zip",
+            "id": "c6db60b4c56ecefd448972c35380232fefbb91147a5f4c682e3c0a99593cda52",
+            "romtype": "VANILLA",
+            "size": 757033086,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-c6db60b4c56ecefd448972c35380232fefbb91147a5f4c682e3c0a99593cda52/lineage-17.1-20211019-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1633630334,
+            "filename": "lineage-17.1-20211007-VANILLA-waydroid_x86_64-system.zip",
+            "id": "fd02fbdd5ca57a89fb13a496859dac9b21a98331105e4dc2f0a3e6f1ac200f3c",
+            "romtype": "VANILLA",
+            "size": 757040422,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-fd02fbdd5ca57a89fb13a496859dac9b21a98331105e4dc2f0a3e6f1ac200f3c/lineage-17.1-20211007-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1632997037,
+            "filename": "lineage-17.1-20210930-VANILLA-waydroid_x86_64-system.zip",
+            "id": "fbbefb6c5237ff06929d26e22eefeff83c3dc1dfdf232c40a98949190d29e8e6",
+            "romtype": "VANILLA",
+            "size": 757087919,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-fbbefb6c5237ff06929d26e22eefeff83c3dc1dfdf232c40a98949190d29e8e6/lineage-17.1-20210930-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1632831948,
+            "filename": "lineage-17.1-20210928-VANILLA-waydroid_x86_64-system.zip",
+            "id": "5893afeb081cbcd5bca08e123510fc7563bc8b05dacc24a6fae485f347441945",
+            "romtype": "VANILLA",
+            "size": 757088465,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-5893afeb081cbcd5bca08e123510fc7563bc8b05dacc24a6fae485f347441945/lineage-17.1-20210928-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1632677133,
+            "filename": "lineage-17.1-20210926-VANILLA-waydroid_x86_64-system.zip",
+            "id": "c81ef9a924a3df0b0f19a1c7cc8d550fb5c18a9eff2b481839f91fb708d923f7",
+            "romtype": "VANILLA",
+            "size": 757088141,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-c81ef9a924a3df0b0f19a1c7cc8d550fb5c18a9eff2b481839f91fb708d923f7/lineage-17.1-20210926-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1632550023,
+            "filename": "lineage-17.1-20210925-VANILLA-waydroid_x86_64-system.zip",
+            "id": "68699fde4cad8dd256a0ecc7e0d007a0047c73b8729ac09ff78fc8ab7f4ce313",
+            "romtype": "VANILLA",
+            "size": 757087882,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-68699fde4cad8dd256a0ecc7e0d007a0047c73b8729ac09ff78fc8ab7f4ce313/lineage-17.1-20210925-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1632153815,
+            "filename": "lineage-17.1-20210920-VANILLA-waydroid_x86_64-system.zip",
+            "id": "de11171c801cd4157280f11b15968406fa3f7d7d9e3166882a8062c54545d3f7",
+            "romtype": "VANILLA",
+            "size": 756205937,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-de11171c801cd4157280f11b15968406fa3f7d7d9e3166882a8062c54545d3f7/lineage-17.1-20210920-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1631544565,
+            "filename": "lineage-17.1-20210913-VANILLA-waydroid_x86_64-system.zip",
+            "id": "dadd9fbaae82666bfaca37df9f7bda13e4c5c67277de61c23081291e2604f004",
+            "romtype": "VANILLA",
+            "size": 739747745,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-dadd9fbaae82666bfaca37df9f7bda13e4c5c67277de61c23081291e2604f004/lineage-17.1-20210913-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1631431829,
+            "filename": "lineage-17.1-20210912-VANILLA-waydroid_x86_64-system.zip",
+            "id": "8795ccf4d679c0d14d7100fe98fc16f565ab8e45ebe4d8b246dd1c385279e744",
+            "romtype": "VANILLA",
+            "size": 739733303,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-8795ccf4d679c0d14d7100fe98fc16f565ab8e45ebe4d8b246dd1c385279e744/lineage-17.1-20210912-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1631352994,
+            "filename": "lineage-17.1-20210911-VANILLA-waydroid_x86_64-system.zip",
+            "id": "397f26f5467d0b5eb918237dd680d37a4d5281fbea9e52c7a705a25875ff74d8",
+            "romtype": "VANILLA",
+            "size": 739733583,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-397f26f5467d0b5eb918237dd680d37a4d5281fbea9e52c7a705a25875ff74d8/lineage-17.1-20210911-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1631184213,
+            "filename": "lineage-17.1-20210909-VANILLA-waydroid_x86_64-system.zip",
+            "id": "a4a8080c38782784f6be91d10b5873622ca9de8c1e613009564e1b102f90e513",
+            "romtype": "VANILLA",
+            "size": 739731904,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-a4a8080c38782784f6be91d10b5873622ca9de8c1e613009564e1b102f90e513/lineage-17.1-20210909-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1631083314,
+            "filename": "lineage-17.1-20210908-VANILLA-waydroid_x86_64-system.zip",
+            "id": "10eeaf97a66f1146d7d9358687bc29667c5d174ff63645efa4f433a7064b3c7c",
+            "romtype": "VANILLA",
+            "size": 739734382,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-10eeaf97a66f1146d7d9358687bc29667c5d174ff63645efa4f433a7064b3c7c/lineage-17.1-20210908-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1630994402,
+            "filename": "lineage-17.1-20210907-VANILLA-waydroid_x86_64-system.zip",
+            "id": "eec039be864763e9538bbe9b9fc75745d0c2c1a15795688ba5b2acb0816ad714",
+            "romtype": "VANILLA",
+            "size": 739739967,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-eec039be864763e9538bbe9b9fc75745d0c2c1a15795688ba5b2acb0816ad714/lineage-17.1-20210907-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1630914541,
+            "filename": "lineage-17.1-20210906-VANILLA-waydroid_x86_64-system.zip",
+            "id": "20cde70c45038801ccc3312e85570102c0cd059d27e9cde259e8ee6ea713793d",
+            "romtype": "VANILLA",
+            "size": 741011566,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-20cde70c45038801ccc3312e85570102c0cd059d27e9cde259e8ee6ea713793d/lineage-17.1-20210906-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1630737526,
+            "filename": "lineage-17.1-20210904-VANILLA-waydroid_x86_64-system.zip",
+            "id": "21166b6e928f9b339711fc53712c88579c5da1f4e6e63d55e82360e35002d9b9",
+            "romtype": "VANILLA",
+            "size": 741003699,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-21166b6e928f9b339711fc53712c88579c5da1f4e6e63d55e82360e35002d9b9/lineage-17.1-20210904-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        },
+        {
+            "datetime": 1630344813,
+            "filename": "lineage-17.1-20210830-VANILLA-waydroid_x86_64-system.zip",
+            "id": "389d69f5bb625d8c567dd0268e416bcefd809ba8300149c374d0a2167f7da035",
+            "romtype": "VANILLA",
+            "size": 740988845,
+            "url": "https://github.com/akku1139/waydroid_ota/releases/download/dl-389d69f5bb625d8c567dd0268e416bcefd809ba8300149c374d0a2167f7da035/lineage-17.1-20210830-VANILLA-waydroid_x86_64-system.zip",
+            "version": "17.1"
+        }
+    ]
+}
