@@ -1,8 +1,8 @@
 # set -x
 set -e
 
-sudo mkdir /mnt/work
-sudo chown runner:runner -R /mnt/work
+sudo mkdir -p /mnt/work
+sudo chown $USER:$USER -R /mnt/work
 
 targets=$(find system vendor -type f -name "*.json")
 
